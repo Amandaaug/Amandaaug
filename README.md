@@ -2,9 +2,9 @@
 
 Sou uma **estudante de Ciência da Computação** de 23 anos, super curiosa e apaixonada pelo mundo da tecnologia! 🚀 Minha jornada é guiada pela busca constante por conhecimento e novas oportunidades de desenvolvimento.
 
-### 💻 Meus Interesses Principais
+## 🧠 Meus Interesses
 
-Minha paixão está no **Back-end** e em **Cybersecurity**. Adoro desvendar como os sistemas funcionam por trás das cenas e proteger o que é construído.
+Minha paixão está na intersecção do desenvolvimento Back-end e da Cybersecurity. Estou constantemente aprimorando minhas habilidades e conhecimentos em ambas as áreas, focada em construir sistemas robustos e seguros, do código à infraestrutura.
 
 ---
 ### 🚀 Tecnologias que Domino & Estou Aprendendo
@@ -25,15 +25,15 @@ Atualmente, minhas ferramentas de trabalho são:
 
 ### ✨ Um Pouco Mais Sobre Mim
 
-Quando não estou codificando ou estudando, você pode me encontrar:
+Quando a tela do computador se apaga, você pode me encontrar:
 
-* 📖 Mergulhada em um bom **livro** * ☕ Tomando um delicioso **café**
-* 🎮 Jogando meus **jogos** favoritos!
+* 🎧 Imersa nas melodias de **Chris Brown** e **The 1975**, que me inspiram e energizam!
+* 📖 Mergulhada em um bom livro, explorando mundos de fantasia, aprendendo sobre história ou me aprofundando em conhecimentos diversos. A leitura é uma das minhas grandes paixões!
+* ☕ Com uma xícara de café fumegante ao lado, seja para começar o dia com energia ou para acompanhar uma boa conversa (ou uma sessão de debugging intensa!).
+* 🎮 No universo dos jogos, desfrutando de narrativas imersivas, desafios estratégicos e a nostalgia dos clássicos. Uma ótima forma de relaxar e exercitar o raciocínio de outras maneiras.
 
 ---
 
 ### 📈 Estatísticas do GitHub (Amandaaug)
 
-```markdown
-![Amanda's GitHub stats](https://github-readme-stats.vercel.app/api?Amandaaug&show_icons=true&theme=default&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Amandaaug&layout=compact&theme=default&hide_border=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amandaaug&show_icons=true&theme=dark&locale=pt-br)
