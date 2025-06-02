@@ -35,5 +35,5 @@ Quando não estou codificando ou estudando, você pode me encontrar:
 ### 📈 Estatísticas do GitHub (Amandaaug)
 
 ```markdown
-![Amanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&theme=default&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-username&layout=compact&theme=default&hide_border=true)
+![Amanda's GitHub stats](https://github-readme-stats.vercel.app/api?Amandaaug&show_icons=true&theme=default&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Amandaaug&layout=compact&theme=default&hide_border=true)
