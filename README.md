@@ -1,6 +1,6 @@
 # Oi, eu sou a Amanda! 👋
 
-Sou uma **estudante de Ciência da Computação** de 23 anos, super curiosa e apaixonada pelo mundo da tecnologia! 🚀 Minha jornada é guiada pela busca constante por conhecimento e novas oportunidades de desenvolvimento.
+Sou uma **estudante de Ciência da Computação** de 24 anos, super curiosa e apaixonada pelo mundo da tecnologia! 🚀 Minha jornada é guiada pela busca constante por conhecimento e novas oportunidades de desenvolvimento.
 
 ## 🧠 Meus Interesses
 
