@@ -6,6 +6,7 @@ Minha especialidade é **Back-End** e **Cybersecurity**, sempre explorando novas
 ## 🧠 Meus Interesses
 
 Minha paixão está na intersecção do desenvolvimento Back-end e da Cybersecurity. Estou constantemente aprimorando minhas habilidades e conhecimentos em ambas as áreas, sempre em busca de desafios que me permitam crescer profissionalmente e tecnicamente.
+
 ---
 ### 🚀 Tecnologias que Domino & Estou Aprendendo
 
@@ -26,7 +27,7 @@ Minha paixão está na intersecção do desenvolvimento Back-end e da Cybersecur
 
 ### ✨ Um Pouco Mais Sobre Mim
 
-Quando a tela do computador se apaga, você pode me encontrar:
+## Quando a tela do computador se apaga, você pode me encontrar:
 
 * 🎧 Música: Fã de Chris Brown, The 1975 e outras músicas que inspiram e energizam meu dia.
 * 📖 Leitura: Amo livros históricos, de Cybersecurity, além de clássicos como Dostoiévski e Maquiavel; também gosto de autores como Kirk e Jordan P.
